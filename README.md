@@ -1,5 +1,7 @@
-## Fala Galera 👋
+## Fala Galera 
+Me chamo Almir Reis
 
+Estudante dedicado em constante evolução, movido pela paixão por aprender e crescer na área de Tecnologia da Informação. Acredito no poder transformador do conhecimento e busco, todos os dias, me tornar um profissional de TI melhor por meio da prática, estudo contínuo e troca de experiências
 <!--
 **AlmirReis/AlmirReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
